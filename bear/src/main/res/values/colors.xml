@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="tvCallPhone">#323232</color>
+    <color name="divider">#e1e1e1</color>
+    <color name="toolbarColor">#aa0000</color>
+    <color name="hint">#c4c2c2</color>
+    <color name="edt1">#d0d0d0</color>
+    <color name="edt2">#666666</color>
+    <color name="dateDividerColor">#cccccc</color>
+    <color name="black">#323232</color>
+    <color name="outDivider">#f3f4ff</color>
+    <color name="btnLeft">#fefcfd</color>
+    <color name="grey">#311901</color>
+    <color name="tvBlack">#232323</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white_88">#88ffffff</color>
+    <color name="buttonColorSelected">#E56715</color>
+    <color name="tvGrey">#888888</color>
+    <color name="toolbar">#2BBFC1</color>
+    <color name="areaSelectBg">#fafafa</color>
+    <color name="btnRight">#f6f4f5</color>
+    <color name="touming">#00ffffff</color>
+    <color name="itemSelected2">#cccccc</color>
+    <color name="itemSelected">#dddcdc</color>
+    <!--text-->
+    <color name="text_ec">#ec3022</color>
+    <color name="text_66">#666666</color>
+    <color name="text_32">#323232</color>
+    <color name="text_64">#646464</color>
+    <color name="text_90">#909090</color>
+    <color name="text_aa">#aaaaaa</color>
+
+    <!--background-->
+    <color name="bg_red">#f23030</color>
+    <color name="bg_black">#333238</color>
+    <color name="bg_blue">#098aed</color>
+    <color name="bg_zang">#576b95</color>
+    <color name="bg_bg">#efeff4</color>
+    <color name="bg_out">#d6d7dc</color>
+    <color name="bg_out2">#e1e1e1</color>
+
+    <color name="bg_ed">#ed2e22</color>
+    <color name="bg_55ed">#55ed2e22</color>
+
+
+
+
+</resources>
